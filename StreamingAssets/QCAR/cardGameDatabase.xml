@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Afgar" size="700.000000 977.915649" />
+    <ImageTarget name="HieraticSealoftheSunDragonOverlord-GAOV-EN-C-1E" size="250.000000 349.255585" />
+    <ImageTarget name="Moarty" size="700.000000 977.915649" />
+    <ImageTarget name="adexus" size="700.000000 977.915649" />
+    <ImageTarget name="prindle" size="700.000000 977.915649" />
+    <ImageTarget name="orrgassam" size="700.000000 977.915649" />
+    <ImageTarget name="madame" size="200.000000 279.404480" />
+  </Tracking>
+</QCARConfig>
